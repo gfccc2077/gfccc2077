@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @gfccc2077
-- 👀 I don't know what I'm doing
-- 🌱 I’m currently learning disabled
-- 💞️ I’m looking to do something cool
-- 📫 I like big butts and I cannot lie
+- 👋 Hi, I’m Gordon.
+- 👀 I don't know what I'm doing but....,
+- 💞️ I’m looking to make/develop something cool
 
 <!---
 gfccc2077/gfccc2077 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
